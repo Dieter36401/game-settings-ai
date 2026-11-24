@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: game-settings-ai, optimizer, tool, graphics, ai, fps, gaming-tools, game, settings, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+game settings optimizer tool graphics ai fps gaming-tools graphics-optimizer-ai game-settings-ai game-settings-optimizer windows portable prebuilt x64 free download
+related: game, settings, optimizer, tool, graphics, ai, fps, gaming-tools
